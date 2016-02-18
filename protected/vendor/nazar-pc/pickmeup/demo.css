@@ -1,0 +1,8 @@
+.pickmeup {
+    background: #0EA3CB none repeat scroll 0% 0%;
+}
+.pickmeup .pmu-instance .pmu-day-of-week {
+    color: #FFF;
+    cursor: default;
+}
+

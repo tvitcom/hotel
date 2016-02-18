@@ -1,0 +1,4 @@
+# robots.txt file for default disallow all userbots
+User-agent: *
+#Allow: /
+Disallow: /
